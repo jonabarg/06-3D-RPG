@@ -9,7 +9,7 @@ A simple 3rd person RPG style game
 ## References
 
 ## Future Development
-May work on over summer 
+May work on over summer for practice
 
 ## Created by 
 
